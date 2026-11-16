@@ -2,8 +2,8 @@
 
 Alat IoT penghitung pemakaian listrik dan air penghuni kos (ESP32, PZEM-004T, YF-S201, LCD 16x2, ThingSpeak).
 
-- **Simulasi interaktif:** `index.html` (bisa dibuka di HP lewat kode QR)
-- **Dashboard data asli dari ThingSpeak:** `dashboard.html`
+- **Halaman utama (index.html):** data asli alat KostBox dari ThingSpeak, bisa dibuka di HP lewat kode QR
+- **Simulasi interaktif:** `simulasi.html`
 - **Firmware ESP32:** `firmware/KostBox_Lomba.ino`
 
 ## Aturan KostBox
